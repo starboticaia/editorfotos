@@ -1,7 +1,5 @@
 import streamlit as st
 import numpy as np
-#import cv2
-#from  PIL import Image, ImageEnhance
 
 logo = "http://starbotica.com/wp-content/uploads/2022/11/cropped-cropped-cropped-logo-fondo.jpg"
 imagenLogo = Image.open(logo)
